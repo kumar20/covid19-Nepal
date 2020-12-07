@@ -1,0 +1,32 @@
+.st{
+  margin-left: 50px;
+ font-family: fantasy;
+  margin-right: 50px;
+  margin-top: 20px;
+ text-align: left;
+
+ text-decoration: lightgoldenrodyellow;
+}
+/* .two-div{
+    float:left;
+    height:40%;
+    width:20px;
+    background-color:#404040;
+    padding-top: 10px;
+    
+    
+    
+    
+   
+   
+}  */
+.cont{
+    /* display: flex; */
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right:50px;
+    font-size: 20px;
+    font-family: BlinkMacSystemFont;
+    background-color: #d7dbdf;
+    text-align: left;
+}

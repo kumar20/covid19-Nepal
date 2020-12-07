@@ -1,0 +1,28 @@
+.container{
+    height: 20px;
+    border-radius: 3px;
+    margin-top: 150px;
+    
+}
+.main-head{
+ font-size: 20px;
+ text-align:center;
+ color:#404040;
+}
+.table{
+    background-color:#404040;
+    
+    font-size: 16px;
+    border-radius: 1em;
+    color:white;
+}
+.tbody{
+    background-color: rgb(202, 193, 190);
+    font-weight:bolder;
+    color:#404040;
+
+
+}
+.thead{
+    color:white;
+}
